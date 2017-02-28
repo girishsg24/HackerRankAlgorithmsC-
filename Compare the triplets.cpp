@@ -21,6 +21,7 @@
 #include <algorithm>
 #include <unordered_map>
 
+https://www.hackerrank.com/challenges/compare-the-triplets
 using namespace std;
 
 
