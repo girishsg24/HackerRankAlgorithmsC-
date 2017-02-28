@@ -1,1 +1,1 @@
-# HackerRankAlgorithmsCPP
+# HackerRankAlgorithm
